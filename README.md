@@ -1,26 +1,15 @@
+# :lion: Like Lion
 
+## :pencil2: JavaScript Core에 대해 학습합니다.
 
+학습이 완료된 항목은 체크박스로 표시됩니다.
 
-# 멋쟁이 사자처럼
-## 자바스크립트 학습 저장소
+---
 
-학습 주제별로 브랜치를 나눠 수업을 진행합니다.
+### Basic
 
-해당 학습 자료는 해당 브랜치로 이동 후 확인 가능합니다.
-
-
-
-
-[JavaScript Core 브랜치](https://www.naver.com)
-
-
-
-
-
-
-
-
-
-
-
-
+- [x] Code Structure [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/01.codeStructure.js)
+- [x] Variables [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/02.variables.js)
+- [x] Strict Mode [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/03.strict.js)
+- [x] Global This
+- [x] Data Types
