@@ -14,4 +14,5 @@
 - [x] Global This [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/04.globalThis.js)
 - [x] Data Types [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/05.dataType.js)
 - [x] Type Conversion [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/06.typeConversion.js)
-- [x] Operations
+- [x] Operations [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/07-1.operations.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/07-2.operations.js)
+- [x] conditions
