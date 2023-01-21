@@ -13,3 +13,5 @@
 - [x] Strict Mode [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/03.strict.js)
 - [x] Global This [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/04.globalThis.js)
 - [x] Data Types [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/05.dataType.js)
+- [x] Type Conversion [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/06.typeConversion.js)
+- [x] Operations
