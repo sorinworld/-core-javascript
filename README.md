@@ -20,3 +20,4 @@
 - [x] Functions [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/10-1.function.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/10-2.function.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/10-3.function.js)
 - [x] Object [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-1.object.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-2.object.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-3.object.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-4.method.js)
 - [x] Closure
+- [x] Wrapper
