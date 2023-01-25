@@ -21,6 +21,7 @@
 - [x] Object [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-1.object.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-2.object.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-3.object.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/11-4.method.js)
 - [x] Closure [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/12-1.closure.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/12-2.closure.js)
 - [x] OptionalChaining & Wrapper [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/13.optionalChaining.js) [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/14.wrapper.js)
-- [x] Number
-- [x] String
-- [x] Array Type
+- [x] Number [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/15.number.js)
+- [x] String [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/16.string.js)
+- [x] Array Type [[바로가기]](https://github.com/sorinworld/-core-javascript/blob/01.core/client/chapter/core/17.arrayType.js)
+- [x] Array Method
